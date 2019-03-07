@@ -2,11 +2,28 @@
 
 .content-box {
     position: relative;
-    top: -850px;
-    left: 200px;
+    left: 100px;
+    top: -650px;
     width: 960px;
-    height: 600px;
+    height: 500px;
     padding: 10px;
     veritcal-align: middle;
     background: white;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.comment {
+    width: 95%;
+    height: 100px;
+    padding: 10px;
+}
+
+.input-box {
+    width: 95%;
+    height: 10%;
+    padding: 5px;
 }
