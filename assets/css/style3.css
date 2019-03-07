@@ -2,22 +2,11 @@
 
 .content-box {
     position: relative;
-    top: -500px;
+    top: -850px;
     left: 200px;
     width: 960px;
-    height: 350px;
+    height: 600px;
     padding: 10px;
     veritcal-align: middle;
     background: white;
 }
-
-.wrap-text {
-    position: relative;
-    width: 150px;
-    heigth: 150px;
-    float: left;
-    align: top;
-    margin: 10px;
-
-}
-

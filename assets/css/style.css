@@ -1,75 +1,67 @@
-
-
-
-
 /* white box at the top*/
 .heading-box {
     position: relative;
     top: 0px;
-    height: 75px;
+    height: 45px;
     background: #ffffff;
     border: solid 1px #cccccc;
-]}
+}
 
 
 /* turquose box at the top*/
 .heading-box-1 {
     position: absolute;
     width: 350px;
-    height: 55px;
+    height: 30px;
     color: white;
-    top: 0px;
-    padding: 10px;
-    text-align: center;
-    background: #4aaaa5;
     left: 200px;
+    text-align: center;
+    padding-top: 15px;
+    background: #4aaaa5;
 }
 
-/* blue box at the top*/
+/*About Me*/
 .heading-box-2
 {
     position: absolute;
     top: 0px;
     left: 560px;
     width: 100px;
-    height: 55px;
-    padding: 10px;
-    background: white;
+    height: 25px;
+    font-size: 10px;
+    padding-top: 20px;
 }
 
+/* Portfolio */
 .heading-box-3
 {
     position: absolute;
     top: 0px;
     left: 150px;
     width: 100px;
-    height: 55px;
-    padding: 10px;
-    background: white;
+    height: 25px;
+    padding-top: 20px;
 }
 
+/* Contact us */
 .heading-box-4
 {
     position: absolute;
     top: 0px;
     left: 150px;
     width: 100px;
-    height: 55px;
-    padding: 10px;
-    background: white;
+    height: 25px;
+    padding-top: 20px;
 }
 
-/* light grey box with the turquose line*/
+/* light grey box background*/
 .heading-box-5 {
-    position: absolute;
+    position: relative;
     height: 500px;
-    background: #dddddd;
-    top: 75px;
-    left: 0px;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    border-top: 1px solid black;
-    border-bottom: 6px solid #4aaaa5;
+    background: #f9f9f9;
+    border-right: .5px solid black;
+    border-left: .5px solid black;
+
 }
 
 a {
@@ -77,15 +69,6 @@ a {
     font-family: Arial;
  }
 
-.heading-box-6 {
-    position: absolute;
-    top: 50px;
-    width: 960px;
-    padding: 25px;
-    height: 800px;
-    left: 200px;
-    background: white;
-}
 
 h2 {
     color: #4aaaa5;
@@ -97,35 +80,34 @@ p {
     font-family: "Times New Roman";
 }
 
-.copyright {
-    position: relative;
-    width: 1000px;
-    top: -50px;
-    color: white;
-    text-align: center;
-    border:  none;
-}
-
-
-
-}
 
 .box-footer {
-    position: relative;
     background: #666666;
-    height: 30px;
+    height: 45px;
     color: white;
     text-align: center;
+    color: white;
+    font-size: 10px;
+    padding-top:35px;
     border-top: 8px solid #4aaaa5;
-    padding-top: 30px;
 }
 
-/* light gray  box*/
-.box-set {
+.section-title {
     position: absolute;
-    height: 900px;
-    background: #cccccc;
+    color: #4aaaa5;
+    font-size: 15px;
+    top: 10px;
+    left: 10px;
 }
+
+.section-rule {
+    position: absolute;
+    border-bottom: .5px solid black;
+    left: 5px;
+    right: 5px;
+    top: 35px;
+}
+
 
 
 
