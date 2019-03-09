@@ -26,8 +26,19 @@
     <list default="true" id="d3076276-9315-43df-a634-0fa79f6cd84d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/assets/css/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style3.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/assets/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +52,60 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="315">
               <caret line="98" column="14" lean-forward="true" selection-start-line="98" selection-start-column="14" selection-end-line="98" selection-end-column="14" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="461">
+              <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+=======
+            <state relative-caret-position="450">
+              <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio-gallery.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/images/portfolio-gallery.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="style1.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style1.css">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+=======
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style2.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style2.css">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="22" />
+=======
+            <state relative-caret-position="15">
+              <caret line="10" selection-start-line="10" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
             </state>
           </provider>
         </entry>
@@ -50,12 +113,40 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="510">
               <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="53" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="360">
+              <caret line="24" column="33" lean-forward="true" selection-end-line="31" selection-end-column="7" />
+=======
+            <state relative-caret-position="435">
+              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style3.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="69" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+            </state>
+          </provider>
+=======
       <file leaf-file-name="portfolio-contact.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/images/portfolio-contact.png">
           <provider selected="true" editor-type-id="images" />
@@ -63,11 +154,16 @@
       </file>
       <file leaf-file-name="style3.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style3.css">
+<<<<<<< HEAD
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
             </state>
           </provider>
+=======
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
         </entry>
       </file>
     </leaf>
@@ -95,13 +191,27 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/assets/css/style1.css" />
+        <option value="$PROJECT_DIR$/assets/css/style2.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/assets/css/style3.css" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+=======
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style2.css" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/assets/css/style1.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/assets/css/style3.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+=======
+        <option value="$PROJECT_DIR$/assets/css/style1.css" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
       </list>
     </option>
   </component>
@@ -124,6 +234,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,7 +373,12 @@
       <workItem from="1551836888460" duration="1475000" />
       <workItem from="1551889098112" duration="4823000" />
       <workItem from="1551905665741" duration="7019000" />
+<<<<<<< HEAD
+      <workItem from="1551919012201" duration="528000" />
+      <workItem from="1551996849122" duration="821000" />
+=======
       <workItem from="1551924909069" duration="3268000" />
+<<<<<<< HEAD
       <workItem from="1552003631481" duration="1085000" />
       <workItem from="1552014759524" duration="145000" />
       <workItem from="1552147142737" duration="94000" />
@@ -265,19 +387,35 @@
       <workItem from="1552153086964" duration="162000" />
       <workItem from="1552153345802" duration="62000" />
       <workItem from="1552157543804" duration="1013000" />
+=======
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="48472000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="43578000" />
+=======
+    <option name="totallyTimeSpent" value="45497000" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15187211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+=======
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -314,6 +452,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/assets/css/style2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -494,55 +633,93 @@
         </state>
       </provider>
     </entry>
+=======
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/assets/images/portfolio-contact.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/portfolio-about-me.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/portfolio-gallery.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+=======
+>>>>>>> b5ac4dd36426c84d1295fcd6a8a7d4e67456ef66
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" selection-start-line="54" selection-end-line="54" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/portfolio-gallery.png">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/Recommended-Dimensions.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/assets/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="22" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="255">
+          <caret line="17" column="77" lean-forward="true" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+=======
+        <state relative-caret-position="270">
+          <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+>>>>>>> 2203a4e5be62698e0235b785bd38a42075a609f3
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="10" selection-start-line="10" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="240">
+          <caret line="16" column="69" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="360">
+          <caret line="24" column="33" lean-forward="true" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
     </entry>
