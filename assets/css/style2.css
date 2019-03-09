@@ -13,12 +13,13 @@
 .content-box {
     position: relative;
     top: -850px;
-    left: 200px;
+    left: 100px;
     width: 960px;
     height: 600px;
     padding: 10px;
     veritcal-align: middle;
-    background: white;
+    background: #ffffff;
+    border: 1px solid #dddddd;
 }
 
 
@@ -28,8 +29,6 @@
     background: white;
     width: 150px;
     height: 150px;
-    color: pink;
-
 }
 .left-box-1 {
     top: 50px;

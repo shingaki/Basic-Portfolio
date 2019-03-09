@@ -39,3 +39,9 @@ p {
     font-size: 16px;
     border-radius: 8px;
 }
+
+.button-style:hover
+{
+    background-color: #dddddd;
+    color: #666666;
+}
