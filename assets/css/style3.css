@@ -24,6 +24,18 @@ p {
 
 .input-box {
     width: 95%;
-    height: 10%;
+    height: 5%;
     padding: 5px;
+}
+
+.button-style {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
 }

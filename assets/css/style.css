@@ -14,7 +14,7 @@
     width: 350px;
     height: 30px;
     color: white;
-    left: 200px;
+    left: 100px;
     text-align: center;
     padding-top: 15px;
     background: #4aaaa5;
@@ -103,10 +103,11 @@ p {
 .section-rule {
     position: absolute;
     border-bottom: .5px solid black;
-    left: 5px;
-    right: 5px;
+    left: 10px;
+    right: 10px;
     top: 35px;
 }
+
 
 
 
